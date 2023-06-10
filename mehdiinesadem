@@ -32,3 +32,52 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809801&extensi
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809800&extension=ts&play_token=B058L71N1U
 #EXTINF:-1 tvg-id="809799" tvg-name="AR| BEIN SPORTS 7 SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 7 
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809799&extension=ts&play_token=VhjFz9qPi6
+--------
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="" group-title="France",TF1	
+http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/111
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Plus1" tvg-logo="" group-title="France",TF1 Plus1	
+http://line.miptv.vip:80/1434738326/9626436533/13401
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="" group-title="France",TFX	
+http://line.miptv.vip:80/9518474041/6746149613/798
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="" group-title="France",TF1 Series Films	
+http://line.miptv.vip:80/0545316317/6099013994/782132
+#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="" group-title="France",France 2	
+http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/113
+#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="" group-title="France",France 3	
+http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/114
+#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="" group-title="France",France 4	
+http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/6941
+#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="" group-title="France",France 5	
+http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/117
+#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="" group-title="France",Arte	
+http://line.miptv.vip:80/3953740320/3838190775/30105
+#EXTINF:-1 tvg-id="" tvg-name="France Info" tvg-logo="" group-title="France",France Info	
+http://line.miptv.vip:80/3953740320/3838190775/30185
+#EXTINF:-1 tvg-id="" tvg-name="C News" tvg-logo="" group-title="France",C News	
+http://line.miptv.vip:80/3953740320/3838190775/13412
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="" group-title="France",M6	
+http://arox.cc:80/05605052020/05605052020/102090
+#EXTINF:-1 tvg-id="" tvg-name="13 EME RUE" tvg-logo="" group-title="France",13 EME RUE	
+http://line.miptv.vip:80/0545316317/6099013994/13411
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="" group-title="France",W9	
+http://line.miptv.vip:80/3953740320/3838190775/782121
+#EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="" group-title="France",Cstar	
+http://line.miptv.vip:80/3953740320/3838190775/30100
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="" group-title="France",C8	
+http://line.miptv.vip:80/3953740320/3838190775/30095
+#EXTINF:-1 tvg-id="" tvg-name="6Ter" tvg-logo="" group-title="France",6Ter	
+http://line.miptv.vip:80/3953740320/3838190775/30103
+#EXTINF:-1 tvg-id="" tvg-name="Cherie 25" tvg-logo="" group-title="France",Cherie 25	
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRJ 12" tvg-logo="" group-title="France",NRJ 12	
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="France",TMC	
+http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/56
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="France",SyFy	
+http://forevertv.me:8080/145601325811/vmDZponNwz/8005
+#EXTINF:-1 tvg-id="" tvg-name="Teva" tvg-logo="" group-title="France",Teva	
+http://arox.cc:80/05605052020/05605052020/176810
+#EXTINF:-1 tvg-id="" tvg-name="Paris Première" tvg-logo="" group-title="France",Paris Première	
+http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/52
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="" group-title="France",Action	
+http://line.miptv.vip:80/9518474041/6746149613/878
