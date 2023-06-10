@@ -11,3 +11,24 @@ http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/407
 http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/1359
 #EXTINF:-1 tvg-id="" tvg-name="Algerie 3 TV SD" tvg-logo="" group-title="Algerie",Algerie 3 TV SD
 http://arox.cc/05605052020/05605052020/666
+------
+#EXTINF:-1 tvg-id="809808" tvg-name="AR| BEIN SPORTS 1 PREMIUM SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 1 PREMIUM 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809808&extension=ts&play_token=ZNhdEH3V3R
+#EXTINF:-1 tvg-id="809807" tvg-name="AR| BEIN SPORTS 2 PREMIUM SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 2 PREMIUM 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809807&extension=ts&play_token=B9xGXexIkC
+#EXTINF:-1 tvg-id="809806" tvg-name="AR| BEIN SPORTS 3 PREMIUM SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 3 PREMIUM 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809806&extension=ts&play_token=vJ4Y3h5fb1
+#EXTINF:-1 tvg-id="809805" tvg-name="AR| BEIN SPORTS 1 SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 1 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809805&extension=ts&play_token=69EcVTUDhp
+#EXTINF:-1 tvg-id="809804" tvg-name="AR| BEIN SPORTS 2 SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 2 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809804&extension=ts&play_token=013NPPl57o
+#EXTINF:-1 tvg-id="809803" tvg-name="AR| BEIN SPORTS 3 SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 3 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809803&extension=ts&play_token=GPg49FPcfz
+#EXTINF:-1 tvg-id="809802" tvg-name="AR| BEIN SPORTS 4 SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 4 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809802&extension=ts&play_token=hRhvXodIgB
+#EXTINF:-1 tvg-id="809801" tvg-name="AR| BEIN SPORTS 5 SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 5 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809801&extension=ts&play_token=sLR5DmRCLO
+#EXTINF:-1 tvg-id="809800" tvg-name="AR| BEIN SPORTS 6 SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 6 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809800&extension=ts&play_token=B058L71N1U
+#EXTINF:-1 tvg-id="809799" tvg-name="AR| BEIN SPORTS 7 SD NA" tvg-logo="" group-title="AR| BEIN SPORTS AM",AR| BEIN SPORTS 7 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=809799&extension=ts&play_token=VhjFz9qPi6
